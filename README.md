@@ -1,2 +1,2 @@
-# Hand Writing Digit Recognition 
+# Handwriting Digit Recognition 
 Web app to recognize handwriting digits
